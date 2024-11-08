@@ -3,6 +3,7 @@
 Hi! I'm **Ayush Sevak**, a tech enthusiast passionate about problem-solving and crafting innovative solutions. 🚀  
 
 ##  Summary
+
 A recent Computer Programming graduate from Seneca College with hands-on experience in technical support, web development, and database management. Skilled in programming languages such as Python, C++, and JavaScript, with a strong foundation in object-oriented programming, data structures, and algorithms. Proven ability to troubleshoot technical issues effectively demonstrated through a role at Teleperformance, where I provided support for software, hardware, and network challenges. Experienced in full-stack development, cloud computing, and creating optimized, user-friendly web solutions, including an E-commerce shopping cart and portfolio projects. With a proactive approach and dedication to enhancing the user experience, I’m ready to contribute technical skills and a strong work ethic to a dynamic team.
 ---
 
