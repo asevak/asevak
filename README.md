@@ -39,7 +39,7 @@ Hi! I'm **Ayush Sevak**, a tech enthusiast passionate about problem-solving and 
 ## 🤝 Connect on Social Media  
 
 📜 [**Portfolio**](#)  
-🌐 [**LinkedIn**](https://https://www.linkedin.com/in/ayush-sevak-a913b4253)  
+🌐 [**LinkedIn**](https://www.linkedin.com/in/ayush-sevak-a913b4253)  
 📧 [**Email**](mailto:ayushsevak@gmail.com)  
 💻 [**GitHub**](https://github.com/asevak)  
 
